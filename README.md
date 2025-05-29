@@ -1,7 +1,3 @@
-Here's a more engaging and polished English version of your text, designed to be clear, friendly, and captivating for learners and developers alike:
-
----
-
 ## 💡 Mastering **Big O Notation** in JavaScript — A Friendly Guide to Algorithm Complexity
 
 Ever heard of **O(n)** or **Big O Notation** and felt a bit confused? Don’t worry—this guide is here to demystify it in a way that’s both practical and beginner-friendly.
@@ -191,4 +187,3 @@ Let’s go beyond just “code that works”—write code that **works *well***.
 
 ---
 
-Let me know if you'd like this formatted for a blog post, carousel, PDF, or presentation!
